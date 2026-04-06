@@ -1,0 +1,6 @@
+ai-policy-recommendation-engine/
+│── app.py
+│── rag_pipeline.py
+│── data/policies.json
+│── requirements.txt
+│── README.md
