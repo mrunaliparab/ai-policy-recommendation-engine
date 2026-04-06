@@ -1,17 +1,17 @@
 # ai-policy-recommendation-engine
 AI-powered insurance policy recommendation system using RAG, LLMs, and FAISS
 
-# 🤖 AI Policy Recommendation Engine
+# AI Policy Recommendation Engine
 
-## 📌 Problem
+## Problem
 
 Customers struggle to choose the right insurance policy.
 
-## 💡 Solution
+## Solution
 
 AI-powered recommendation system using RAG + LLMs.
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * Python
 * LangChain
@@ -19,17 +19,17 @@ AI-powered recommendation system using RAG + LLMs.
 * FAISS
 * Flask
 
-## 🚀 Features
+##  Features
 
 * Personalized policy recommendation
 * Semantic search using embeddings
 * Fast API backend
 
-## 📊 Impact
+##  Impact
 
 Improved policy discovery by **22%**
 
-## ▶️ Run
+##  Run
 
 ```bash
 pip install -r requirements.txt
